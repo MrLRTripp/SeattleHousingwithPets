@@ -1,6 +1,8 @@
 # SeattleHousingwithPets
 
-## Exploratory Data Analysis of Seattle Pet License data set.
+## Exploratory Data Analysis of Seattle Pet License data set combined with US Census Housing Survey.
+
+**Purpose:** Try to determine if there is any correlation between dog ownership and housing data.
 
 Use the API for the Seattle pet licence open data to get the breed and ZIP code location:
 
